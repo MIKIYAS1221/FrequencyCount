@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X7NtY3kJ2p2n2uV/LwcN82k03VNq30x/c55PPVwpUjbp1/cmHJD5U2O4U7dbLViZ6tbSvF8beAJpP1ICRqjk3g==",
+  "success": true,
+  "projectFilePath": "/home/miki/RiderProjects/FrequencyCount/FrequencyCount/FrequencyCount.csproj",
+  "expectedPackageFiles": [
+    "/home/miki/.nuget/packages/microsoft.netcore.app.ref/7.0.5/microsoft.netcore.app.ref.7.0.5.nupkg.sha512",
+    "/home/miki/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.5/microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512",
+    "/home/miki/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.5/microsoft.netcore.app.host.linux-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

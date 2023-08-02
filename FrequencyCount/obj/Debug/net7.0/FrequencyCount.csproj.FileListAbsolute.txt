@@ -1,0 +1,15 @@
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/bin/Debug/net7.0/FrequencyCount
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/bin/Debug/net7.0/FrequencyCount.deps.json
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/bin/Debug/net7.0/FrequencyCount.runtimeconfig.json
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/bin/Debug/net7.0/FrequencyCount.dll
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/bin/Debug/net7.0/FrequencyCount.pdb
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/FrequencyCount.csproj.AssemblyReference.cache
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/FrequencyCount.GeneratedMSBuildEditorConfig.editorconfig
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/FrequencyCount.AssemblyInfoInputs.cache
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/FrequencyCount.AssemblyInfo.cs
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/FrequencyCount.csproj.CoreCompileInputs.cache
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/FrequencyCount.dll
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/refint/FrequencyCount.dll
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/FrequencyCount.pdb
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/FrequencyCount.genruntimeconfig.cache
+/home/miki/RiderProjects/FrequencyCount/FrequencyCount/obj/Debug/net7.0/ref/FrequencyCount.dll
